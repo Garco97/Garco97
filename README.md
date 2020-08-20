@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning Laravel and Vue.
 
 
 
